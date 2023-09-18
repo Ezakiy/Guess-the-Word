@@ -1,2 +1,4 @@
 # Guess-the-Word
-Este foi o meu primeiro projeto de todos em programação, foi criado em Visual Basic no Visual Studio 2019
+É um projeto que ao utilizador iniciar, aparece numa consola um jogo de adivinhar uma palavra aleatoria
+
+
